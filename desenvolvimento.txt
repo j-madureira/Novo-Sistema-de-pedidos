@@ -1,0 +1,38 @@
+Criar as funções do projeto sendo elas:
+- Bem vindo ao sistema
+- Ao não digitar o nome
+- Ao não digitar o nome de usuário
+- Ao não digitar a senha
+- Ao errar o nome de usuário ou não inseri-lo
+- Ao errar a senha ou não informa-la 
+
+Receber o nome 
+- Informar para fazer cadastro
+
+CADASTRO 
+- Criar o nome de usuário 
+- Criar a senha 
+
+Login 
+- Receber o nome de usuário 
+- Receber a senha 
+- Informar ao sistema que o cliente está conectado 
+
+Ao  Logar
+- Mostrar um cardápio de lanches sendo eles: Big Bacon, Alfa Lanche, Salf Big Bacon 
+- Receber o pedido do lanche 
+- Mostrar um cardápio de bebidas sendo elas: Coca, Kuat e Morango Refri 
+- Receber o pedido da bebida 
+- Mostrar um cardápio de sobremesas sendo elas: Chocolate, Sorvete Menta e Sorvete Flocos
+- Receber o pedido das sobremesas 
+
+Entrega do pedido 
+- Informar onde entregar 
+- Informar a cidade
+- Informar o bairro 
+- Informar a rua 
+- Informar o número 
+
+Finalização
+- Informar ao cliente que o pedido está a caminho 
+- Informar ao sistema o pedido e onde entregar
